@@ -13,6 +13,7 @@ public class Int {
 		String s=sc.nextLine();
 		
 		System.out.println(s +" "+ i);
+		System.out.println("hello");
 	}
 
 }
